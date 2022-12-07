@@ -1,0 +1,31 @@
+body{
+    background-color: #181D31;
+}
+p{
+    color: #F0E9D2;
+}
+h1{
+    color: #E6DDC4;
+}
+h3{
+    color: #E6DDC4;
+}
+hr{
+    background-color: #678983;
+    border-style: none;
+    height: 2px;
+    border-width: 5px;
+}
+img{
+    width: 200px;
+    border-radius: 55%;
+}
+li{
+    color: #F0E9D2;
+}
+th{
+    color: #E6DDC4;
+}
+td{
+    color: #F0E9D2;
+}
