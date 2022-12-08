@@ -29,3 +29,6 @@ th{
 td{
     color: #F0E9D2;
 }
+img:hover{
+    border-radius: 0;
+}
